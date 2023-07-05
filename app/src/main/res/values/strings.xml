@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NambaTestApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_image_transition">detail_image</string>
+    <string name="search_text">Поиск картинок</string>
+</resources>
